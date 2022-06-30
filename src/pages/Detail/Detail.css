@@ -1,0 +1,17 @@
+.detailFilm {
+    text-align: center;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box1 {
+    height: 100vh;
+    margin: 0 auto;
+    width: 100vw;
+    background: rgba(255, 255, 255, 0.18);
+    border: 1px solid rgba( 255, 255, 255, 0.4);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+}
